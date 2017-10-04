@@ -1,0 +1,34 @@
+﻿@model LojaGames.Entities.Jogo
+
+<div class="row">
+    <div class="col-md-4">
+        <div class="editor-label">
+            <div class="editor-label">
+                @Html.LabelFor(m => m.Nome)
+            </div>
+            <div class="editor-field">
+                @Html.TextBoxFor(m => m.Nome,new { @readonly = true })
+            </div>
+        </div>
+    </div>
+    <div class="col-md-4">
+        <div class="editor-label">
+            <div class="editor-label">
+                @Html.LabelFor(m => m.Genero)
+            </div>
+            <div class="editor-field">
+                @Html.TextBoxFor(m => m.Genero, new { @readonly = true })
+            </div>
+        </div>
+    </div>
+    <div class="col-md-4">
+        <div class="editor-label">
+            <div class="editor-label">
+                @Html.LabelFor(m => m.Plataforma)
+            </div>
+            <div class="editor-field">
+                @Html.TextBoxFor(m => m.Plataforma, new { @readonly = true })
+            </div>
+        </div>
+    </div>
+</div>

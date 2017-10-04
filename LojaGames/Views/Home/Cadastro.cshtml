@@ -1,0 +1,48 @@
+﻿@model LojaGames.ViewModel.CadastroViewModel
+@{
+    ViewBag.Title = "Cadastro";
+}
+
+
+@Scripts.Render("~/scripts/jquery-validate")
+
+<div class="row">
+
+
+  @using (Html.BeginForm())
+  {
+
+    <fieldset>
+        <legend>Novo Jogo</legend>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Nome)
+        </div>
+        <div class="editor-field">
+            @Html.TextBoxFor(m => m.Nome)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Genero)
+        </div>
+        <div class="editor-field">
+            @Html.TextBoxFor(m => m.Genero)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Plataforma)
+        </div>
+        <div class="editor-field">
+            @Html.TextBoxFor(m => m.Plataforma)
+        </div>
+
+        <p>
+            <br/>
+            <input type="submit" value="Cadastrar" />
+        </p>
+
+        @Html.ValidationSummary(true, "Atenção")
+    </fieldset>
+  }
+</div>
+

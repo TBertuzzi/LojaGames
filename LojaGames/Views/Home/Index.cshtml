@@ -1,0 +1,16 @@
+﻿@model LojaGames.ViewModel.JogoViewModel
+@{
+    ViewBag.Title = "Jogos Disponiveis";
+}
+
+<div class="row">
+       @foreach (var jogo in Model.Jogos)
+       {
+        @Html.Partial("_Jogo", jogo)
+       }
+</div>
+
+<div class="row">
+    <br />
+    @Html.ActionLink("Cadastrar Novo Jogo", "Cadastro", "Home",null, null)
+</div>
