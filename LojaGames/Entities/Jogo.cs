@@ -29,5 +29,14 @@ namespace LojaGames.Entities
             set { _plataforma = value; }
         }
 
+        private string _classificacao;
+
+        public string Classificacao
+        {
+            get { return _classificacao; }
+            set { _classificacao = value; }
+        }
+
+
     }
 }

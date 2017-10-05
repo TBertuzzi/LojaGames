@@ -22,6 +22,11 @@ namespace LojaGames.ViewModel
         [Display(Name = "Plataforma")]
         public string Plataforma { get; set; }
 
+        [Required]
+        [Display(Name = "Classificação")]
+        public string Classificacao { get; set; }
+
+
 
     }
 }

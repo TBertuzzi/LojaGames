@@ -1,0 +1,8 @@
+
+*.cache
+*.dll
+*.pdb
+LojaGames/bin/LojaGames.pdb
+.vs/config/applicationhost.config
+*.cache
+*.cache

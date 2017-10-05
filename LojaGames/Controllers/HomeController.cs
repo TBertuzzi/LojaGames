@@ -25,6 +25,7 @@ namespace LojaGames.Controllers
                 Jogos = Session["Jogos"] as List<Jogo>
             };
 
+
             return View(viewModel);
           
         }

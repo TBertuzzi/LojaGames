@@ -16,6 +16,7 @@ namespace LojaGames.Repository
             jogo.Nome = "Mario Galaxy";
             jogo.Genero = "Aventura";
             jogo.Plataforma = "Nintendo WII";
+            jogo.Classificacao = "Livre";
 
             jogos.Add(jogo);
 
@@ -23,6 +24,7 @@ namespace LojaGames.Repository
             jogo.Nome = "God of War III";
             jogo.Genero = "Ação/Aventura";
             jogo.Plataforma = "Playstation 3";
+            jogo.Classificacao = "+ 18";
 
             jogos.Add(jogo);
 
@@ -30,6 +32,7 @@ namespace LojaGames.Repository
             jogo.Nome = "Mario Kart 8 Deluxe";
             jogo.Genero = "Corrida";
             jogo.Plataforma = "Nintendo Switch";
+            jogo.Classificacao = "Livre";
 
             jogos.Add(jogo);
 

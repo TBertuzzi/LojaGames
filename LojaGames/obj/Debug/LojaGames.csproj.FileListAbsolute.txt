@@ -38,3 +38,44 @@ D:\Data\Desenvolvimento\GIT\LojaGames\LojaGames\LojaGames\bin\Newtonsoft.Json.xm
 D:\Data\Desenvolvimento\GIT\LojaGames\LojaGames\LojaGames\obj\Debug\LojaGames.csprojResolveAssemblyReference.cache
 D:\Data\Desenvolvimento\GIT\LojaGames\LojaGames\LojaGames\obj\Debug\LojaGames.dll
 D:\Data\Desenvolvimento\GIT\LojaGames\LojaGames\LojaGames\obj\Debug\LojaGames.pdb
+\\Mac\Dropbox\Desenvolvimento\Aulas e Tutoriais\GitHub\LojaGames\LojaGames\bin\roslyn\csc.exe
+\\Mac\Dropbox\Desenvolvimento\Aulas e Tutoriais\GitHub\LojaGames\LojaGames\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\Mac\Dropbox\Desenvolvimento\Aulas e Tutoriais\GitHub\LojaGames\LojaGames\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\Mac\Dropbox\Desenvolvimento\Aulas e Tutoriais\GitHub\LojaGames\LojaGames\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\Mac\Dropbox\Desenvolvimento\Aulas e Tutoriais\GitHub\LojaGames\LojaGames\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\Mac\Dropbox\Desenvolvimento\Aulas e Tutoriais\GitHub\LojaGames\LojaGames\bin\roslyn\Microsoft.CSharp.Core.targets
+\\Mac\Dropbox\Desenvolvimento\Aulas e Tutoriais\GitHub\LojaGames\LojaGames\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\Mac\Dropbox\Desenvolvimento\Aulas e Tutoriais\GitHub\LojaGames\LojaGames\bin\roslyn\System.Collections.Immutable.dll
+\\Mac\Dropbox\Desenvolvimento\Aulas e Tutoriais\GitHub\LojaGames\LojaGames\bin\roslyn\System.Reflection.Metadata.dll
+\\Mac\Dropbox\Desenvolvimento\Aulas e Tutoriais\GitHub\LojaGames\LojaGames\bin\roslyn\vbc.exe
+\\Mac\Dropbox\Desenvolvimento\Aulas e Tutoriais\GitHub\LojaGames\LojaGames\bin\roslyn\VBCSCompiler.exe
+\\Mac\Dropbox\Desenvolvimento\Aulas e Tutoriais\GitHub\LojaGames\LojaGames\bin\roslyn\VBCSCompiler.exe.config
+\\Mac\Dropbox\Desenvolvimento\Aulas e Tutoriais\GitHub\LojaGames\LojaGames\bin\LojaGames.dll.config
+\\Mac\Dropbox\Desenvolvimento\Aulas e Tutoriais\GitHub\LojaGames\LojaGames\bin\LojaGames.dll
+\\Mac\Dropbox\Desenvolvimento\Aulas e Tutoriais\GitHub\LojaGames\LojaGames\bin\LojaGames.pdb
+\\Mac\Dropbox\Desenvolvimento\Aulas e Tutoriais\GitHub\LojaGames\LojaGames\bin\Antlr3.Runtime.dll
+\\Mac\Dropbox\Desenvolvimento\Aulas e Tutoriais\GitHub\LojaGames\LojaGames\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\Mac\Dropbox\Desenvolvimento\Aulas e Tutoriais\GitHub\LojaGames\LojaGames\bin\Microsoft.Web.Infrastructure.dll
+\\Mac\Dropbox\Desenvolvimento\Aulas e Tutoriais\GitHub\LojaGames\LojaGames\bin\Newtonsoft.Json.dll
+\\Mac\Dropbox\Desenvolvimento\Aulas e Tutoriais\GitHub\LojaGames\LojaGames\bin\System.Web.Helpers.dll
+\\Mac\Dropbox\Desenvolvimento\Aulas e Tutoriais\GitHub\LojaGames\LojaGames\bin\System.Web.Mvc.dll
+\\Mac\Dropbox\Desenvolvimento\Aulas e Tutoriais\GitHub\LojaGames\LojaGames\bin\System.Web.Optimization.dll
+\\Mac\Dropbox\Desenvolvimento\Aulas e Tutoriais\GitHub\LojaGames\LojaGames\bin\System.Web.Razor.dll
+\\Mac\Dropbox\Desenvolvimento\Aulas e Tutoriais\GitHub\LojaGames\LojaGames\bin\System.Web.WebPages.Deployment.dll
+\\Mac\Dropbox\Desenvolvimento\Aulas e Tutoriais\GitHub\LojaGames\LojaGames\bin\System.Web.WebPages.dll
+\\Mac\Dropbox\Desenvolvimento\Aulas e Tutoriais\GitHub\LojaGames\LojaGames\bin\System.Web.WebPages.Razor.dll
+\\Mac\Dropbox\Desenvolvimento\Aulas e Tutoriais\GitHub\LojaGames\LojaGames\bin\WebGrease.dll
+\\Mac\Dropbox\Desenvolvimento\Aulas e Tutoriais\GitHub\LojaGames\LojaGames\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\Mac\Dropbox\Desenvolvimento\Aulas e Tutoriais\GitHub\LojaGames\LojaGames\bin\System.Web.Helpers.xml
+\\Mac\Dropbox\Desenvolvimento\Aulas e Tutoriais\GitHub\LojaGames\LojaGames\bin\System.Web.Mvc.xml
+\\Mac\Dropbox\Desenvolvimento\Aulas e Tutoriais\GitHub\LojaGames\LojaGames\bin\System.Web.Optimization.xml
+\\Mac\Dropbox\Desenvolvimento\Aulas e Tutoriais\GitHub\LojaGames\LojaGames\bin\System.Web.Razor.xml
+\\Mac\Dropbox\Desenvolvimento\Aulas e Tutoriais\GitHub\LojaGames\LojaGames\bin\System.Web.WebPages.xml
+\\Mac\Dropbox\Desenvolvimento\Aulas e Tutoriais\GitHub\LojaGames\LojaGames\bin\System.Web.WebPages.Deployment.xml
+\\Mac\Dropbox\Desenvolvimento\Aulas e Tutoriais\GitHub\LojaGames\LojaGames\bin\System.Web.WebPages.Razor.xml
+\\Mac\Dropbox\Desenvolvimento\Aulas e Tutoriais\GitHub\LojaGames\LojaGames\bin\Antlr3.Runtime.pdb
+\\Mac\Dropbox\Desenvolvimento\Aulas e Tutoriais\GitHub\LojaGames\LojaGames\bin\Newtonsoft.Json.xml
+\\Mac\Dropbox\Desenvolvimento\Aulas e Tutoriais\GitHub\LojaGames\LojaGames\obj\Debug\LojaGames.csprojResolveAssemblyReference.cache
+\\Mac\Dropbox\Desenvolvimento\Aulas e Tutoriais\GitHub\LojaGames\LojaGames\obj\Debug\LojaGames.csproj.CoreCompileInputs.cache
+\\Mac\Dropbox\Desenvolvimento\Aulas e Tutoriais\GitHub\LojaGames\LojaGames\obj\Debug\LojaGames.dll
+\\Mac\Dropbox\Desenvolvimento\Aulas e Tutoriais\GitHub\LojaGames\LojaGames\obj\Debug\LojaGames.pdb
